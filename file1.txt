@@ -1,1 +1,3 @@
 comment file1
+master 1
+new_branch 2
